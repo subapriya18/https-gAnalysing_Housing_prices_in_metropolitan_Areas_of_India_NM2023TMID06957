@@ -1,1 +1,5 @@
-# https-gAnalysing_Housing_prices_in_metropolitan_Areas_of_India_NM2023TMID06957
+Dashboard 1-{https://public.tableau.com/app/profile/subalakshmi.s7545/viz/Dashbord_16968608088820/Dashboard1?publish=yes}
+Dashbord 2- {https://public.tableau.com/app/profile/subalakshmi.s7545/viz/Dashbord2_16968610885210/Dashboard2?publish=yes}
+Dashboard 3-{https://public.tableau.com/app/profile/subalakshmi.s7545/viz/Dashbord3_16968612814100/Dashboard3?publish=yes}
+Dashboard 4-{https://public.tableau.com/app/profile/subalakshmi.s7545/viz/Dashbord4_16968616818200/Dashboard4?publish=yes}
+Story   -{https://public.tableau.com/app/profile/subalakshmi.s7545/viz/Story_16968648167280/Story1?publish=yes}
